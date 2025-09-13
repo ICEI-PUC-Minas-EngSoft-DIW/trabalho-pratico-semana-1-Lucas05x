@@ -2,14 +2,17 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Lucas Marques Ferreira Souza
+Matricula:2513562
 
 ## Tela de inspeção com navegador
 
+![PRINT SITE 1](images/SITE%201.png)
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
 
 ## Tela de projeto no Replit
+
+![REPLIT](images/REPLIT.png)
 
 `<Coloque aqui o print da tela do projeto no Replit>`
 
